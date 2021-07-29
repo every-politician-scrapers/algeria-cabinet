@@ -1,5 +1,15 @@
 {
-    "cabinet": "Q96638422",
-    "lang":    "fr",
-    "agent":   "every-politican-scrapers/algeria-cabinet"
+    "cabinet": {
+      "id": "Q96638422",
+      "start": "2020-06-23"
+    },
+    "source": {
+        "url":   "http://www.premier-ministre.gov.dz/fr/gouvernement/compostion-actuel",
+        "title": "Le portail du Premier Ministère | Composition du gouvernement",
+        "lang":  {
+            "code": "fr",
+            "wikidata": "Q150"
+        }
+    },
+    "agent": "every-politican-scrapers/algeria-cabinet"
 }
