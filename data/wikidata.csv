@@ -1,3 +1,5 @@
 wdid,name,wdLabel,gender,dob,dobPrecision,source,pid,position,psid
-Q80100650,Abdelaziz Djerrad,Abdelaziz Djerrad,male,1954-02-12T00:00:00Z,11,,Q182762,Premier ministre d'Algérie,Q80100650-3eef7bc2-493f-0273-e9ad-d6c82493eabd
-Q62639219,Youcef Belmehdi,Youcef Belmehdi,male,1963-09-29T00:00:00Z,11,,Q99935322,ministre des Affaires religieuses,Q62639219-f9e0351a-4c11-fd96-caaf-0d37d0f8d322
+Q96612848,Aïmene BENABDERRAHMANE,Aymen Benabderrahmane,male,1966-08-30T00:00:00Z,11,http://www.premier-ministre.gov.dz/fr/gouvernement/compostion-actuel,Q54217583,Ministre des finances,Q96612848-1EA30DE0-46BD-453F-B11D-CF23D2B41F6E
+Q96612848,Aïmene BENABDERRAHMANE,Aymen Benabderrahmane,male,1966-08-30T00:00:00Z,11,http://www.premier-ministre.gov.dz/fr/gouvernement/compostion-actuel,Q182762,Premier Ministre,Q96612848-4B4BA98F-2022-4F09-A04C-18EA7C8887F7
+Q79142656,Kamal BELDJOUD,Kamel Beldjoud,male,1957-01-01T00:00:00Z,9,http://www.premier-ministre.gov.dz/fr/gouvernement/compostion-actuel,Q54236963,"Ministre de l’Intérieur, des Collectivités locales et de l’Aménagement du Territoire",Q79142656-bb546922-5699-4c35-a6f1-1106519ade30
+Q62639219,Youcef BELMEHDI,Youcef Belmehdi,male,1963-09-29T00:00:00Z,11,http://www.premier-ministre.gov.dz/fr/gouvernement/compostion-actuel,Q99935322,Ministre des Affaires religieuses et des Wakfs,Q62639219-f9e0351a-4c11-fd96-caaf-0d37d0f8d322
