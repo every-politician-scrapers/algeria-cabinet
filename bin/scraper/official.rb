@@ -10,7 +10,17 @@ class MemberList
       noko.css('.ministere-nom').text.tidy
     end
 
+    POSITION_MAP = {
+      'Premier Ministre Ministre des finances' => ['Premier Ministre', 'Ministre des finances']
+    }
+
     def position
+      POSITION_MAP.fetch(raw_position, raw_position)
+    end
+
+    private
+
+    def raw_position
       noko.css('.ministere-link').text.tidy
     end
   end
