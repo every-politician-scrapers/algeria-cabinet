@@ -1,0 +1,5 @@
+ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,isa,isaLabel,parent,parentLabel,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
+,Q62060549,Q62060549,2019-03-11,11,,,2020-01-04,11,,,Q5015487,Cabinet of Algeria,,,,,,,,,,
+,Q96638422,Second Djerad government,2020-06-23,11,,,2021-02-21,11,,,Q5015487,Cabinet of Algeria,,,Q80171006,First Djerad government,Q105770617,Third Djerad government,,,,
+,Q105770617,Third Djerad government,2021-02-21,11,,,2021-07-07,11,,,Q5015487,Cabinet of Algeria,,,Q96638422,Second Djerad government,Q107447224,Benabderrahmane Cabinet,,,Q107447224,Benabderrahmane Cabinet
+,Q107447224,Benabderrahmane Cabinet,2021-07-07,11,,,,,,,Q5015487,Cabinet of Algeria,,,Q105770617,Third Djerad government,,,,,,
