@@ -707,8 +707,11 @@
                 },
                 {
                   "text": "Aïn-Sefra territory",
-                  "type": "internal",
-                  "page": ":fr:Territoires du Sud",
+                  "type": "interwiki",
+                  "wiki": {
+                    "wiki": "",
+                    "lang": "fr"
+                  },
                   "anchor": "Territoire d'Aïn-Sefra"
                 }
               ]
@@ -754,6 +757,15 @@
               "text": "He graduated from the National School of Administration (Algeria) on 29 July 1969 (2nd promotion, “Larbi Ben M'Hidi”, economic and financial section)"
             }
           ]
+        }
+      ],
+      "templates": [
+        {
+          "text": "National School of Administration (Algeria)",
+          "lt": "National School of Administration",
+          "lan1": "fr",
+          "text1": "École nationale d'administration (Algérie)",
+          "template": "ill"
         }
       ],
       "references": [
