@@ -31,6 +31,11 @@
                 {
                   "type": "internal",
                   "page": "President of Algeria"
+                },
+                {
+                  "text": "Minister of Defence",
+                  "type": "internal",
+                  "page": "Defence minister"
                 }
               ],
               "formatting": {
@@ -62,7 +67,14 @@
               ]
             },
             {
-              "text": "In addition, he was also Minister of Housing from 2001 to 2002 for a year and again from 2012 to 2017 for 5 years."
+              "text": "In addition, he was also Minister of Housing from 2001 to 2002 for a year and again from 2012 to 2017 for 5 years.",
+              "links": [
+                {
+                  "text": "Minister of Housing",
+                  "type": "internal",
+                  "page": "Housing minister"
+                }
+              ]
             }
           ]
         }
@@ -667,6 +679,16 @@
           "access-date": "2020-10-20",
           "website": "The Africa Report.com",
           "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2013-02-06",
+          "title": "Algeria minister to reshuffle housing directors",
+          "url": "https://www.echoroukonline.com/algeria-minister-to-reshuffle-housing-directors",
+          "access-date": "2021-12-06",
+          "website": "الشروق أونلاين",
+          "language": "ar-DZ",
           "template": "citation",
           "type": "web"
         },
