@@ -4,7 +4,8 @@
   "categories": [
     "Members of the People's National Assembly",
     "Living people",
-    "Algerian men"
+    "Algerian men",
+    "Year of birth missing (living people)"
   ],
   "sections": [
     {
@@ -14,7 +15,7 @@
         {
           "sentences": [
             {
-              "text": "Ibrahim Boughali ( Arabic: ابراهيم بوغالي) is an Algerian politician who is currently serving as the assembly president of Algeria .On 8th July, 2021 he became the president of the country's People's National Assembly.",
+              "text": "Ibrahim Boughali ( Arabic: ابراهيم بوغالي) is an Algerian politician who is currently serving as the assembly president of Algeria.",
               "links": [
                 {
                   "type": "internal",
@@ -28,10 +29,6 @@
                 {
                   "type": "internal",
                   "page": "Algeria"
-                },
-                {
-                  "type": "internal",
-                  "page": "People's National Assembly"
                 }
               ],
               "formatting": {
@@ -39,6 +36,15 @@
                   "Ibrahim Boughali"
                 ]
               }
+            },
+            {
+              "text": "On 8 July 2021 he became the president of the country's People's National Assembly.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "People's National Assembly"
+                }
+              ]
             }
           ]
         }
@@ -123,7 +129,7 @@
               "text": "Date of Birth"
             },
             "col2": {
-              "text": "March 3 ,1963"
+              "text": "March 3, 1963"
             }
           },
           {
