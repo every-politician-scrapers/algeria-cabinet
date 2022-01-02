@@ -162,47 +162,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://www.aps.dz/en/algeria/32410-president-of-the-republic-appoints-major-general-said-chengriha-as-army-acting-chief",
-          "title": "President of the Republic appoints Major General, Saïd Chengriha, as Army Acting Chief",
-          "last": "Saci",
-          "first": "Yasmine",
-          "website": "www.aps.dz",
-          "language": "en-gb",
-          "access-date": "2019-12-23",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.aljazeera.com/news/2019/12/algerian-army-chief-ahmed-gaid-salah-dies-191223101013269.html",
-          "title": "Algerian army chief Ahmed Gaid Salah dies",
-          "website": "www.aljazeera.com",
-          "access-date": "2019-12-23",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last": "Thouraya",
-          "first": "Chellouf",
-          "title": "Le Général de Corps d'Armée Saïd Chanegriha confirmé dans le poste de Chef d’état-major de l’ANP (MDN)",
-          "url": "http://www.aps.dz/algerie/106904-le-general-de-corps-d-armee-said-chanegriha-confirme-dans-le-poste-de-chef-d-etat-major-de-l-anp-mdn",
-          "access-date": "2020-07-03",
-          "website": "www.aps.dz",
-          "language": "fr-fr",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Le Commandant des Forces",
-          "website": "Ministère de la Défense Nationale",
-          "url": "https://www.mdn.dz/site_cft/index.php",
-          "language": "fr",
-          "access-date": "24 Dec 2019",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

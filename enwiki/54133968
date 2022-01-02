@@ -670,44 +670,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "date": "2020-10-19",
-          "title": "Algeria: Tensions mount as Tebboune and Chengriha butt heads",
-          "url": "https://www.theafricareport.com/46604/algeria-tensions-mount-as-tebboune-and-chengriha-butt-heads/",
-          "access-date": "2020-10-20",
-          "website": "The Africa Report.com",
-          "language": "en-US",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "date": "2013-02-06",
-          "title": "Algeria minister to reshuffle housing directors",
-          "url": "https://www.echoroukonline.com/algeria-minister-to-reshuffle-housing-directors",
-          "access-date": "2021-12-06",
-          "website": "الشروق أونلاين",
-          "language": "ar-DZ",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last1": "Lamlili",
-          "first1": "Nadia",
-          "language": "fr",
-          "title": "Premier ministre d'Abdelaziz Bouteflika ?",
-          "trans-title": "Abdelaziz Bouteflika's Prime Minister?",
-          "date": "2017-05-25",
-          "newspaper": "Jeune Afrique",
-          "url": "https://www.jeuneafrique.com/442030/politique/algerie-abdelmadjid-tebboune-nouveau-premier-ministre-dabdelaziz-bouteflika/",
-          "access-date": "November 2, 2019",
-          "archive-url": "https://web.archive.org/web/20191102204034/https://www.jeuneafrique.com/442030/politique/algerie-abdelmadjid-tebboune-nouveau-premier-ministre-dabdelaziz-bouteflika/",
-          "archive-date": "November 2, 2019",
-          "url-status": "live",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]

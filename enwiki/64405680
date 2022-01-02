@@ -64,27 +64,6 @@
           "date": "September 2020",
           "template": "like resume"
         }
-      ],
-      "references": [
-        {
-          "last": "Mounia",
-          "first": "Boudjedri",
-          "title": "Abdelbaki Benziane prend ses fonctions à la tête du ministère de l'Enseignement supérieur",
-          "url": "http://www.aps.dz/sante-science-technologie/106629-abdelbaki-benziane-prend-ses-fonctions-a-la-tete-du-ministere-de-l-enseignement-superieur",
-          "access-date": "2020-06-28",
-          "website": "www.aps.dz",
-          "language": "fr-fr",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "الأستاذ عبد الباقي بن زيان يستلم مهامه على رأس وزارة التعليم العالي والبحث العلمي - النشاطــات : Ministère de l'enseignement supérieur et de la recherche scientifique",
-          "url": "https://www.mesrs.dz/activite/-/asset_publisher/ylWq1hBeIHRB/content/m-chitour-repond-aux-questions-des-membres-de-la-commission-des-finances-et-du-budget-de-apn-?inheritRedirect=false&redirect=http://www.mesrs.dz:8080/activite?p_p_id=101_INSTANCE_ylWq1hBeIHRB&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_pos=2&p_p_col_count=3",
-          "access-date": "2020-06-28",
-          "website": "www.mesrs.dz",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]
