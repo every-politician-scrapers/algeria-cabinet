@@ -36,11 +36,6 @@
                   "site": "http://www.mission-algerie.ch/LePays/gouvsuc.htm"
                 },
                 {
-                  "text": "Algerian",
-                  "type": "internal",
-                  "page": "Algeria"
-                },
-                {
                   "text": "National Liberation Front",
                   "type": "internal",
                   "page": "National Liberation Front (Algeria)"
