@@ -1,671 +1,84 @@
 {
-  "title": "Abdelmadjid Tebboune",
-  "pageID": 54133968,
-  "categories": [
-    "1945 births",
-    "Living people",
-    "National Liberation Front (Algeria) politicians",
-    "Prime Ministers of Algeria",
-    "Presidents of Algeria",
-    "Defense ministers of Algeria",
-    "People from Naâma Province",
-    "COVID-19 pandemic in Algeria",
-    "Culture ministers of Algeria",
-    "21st-century Algerian people"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Abdelmadjid Tebboune (عبد المجيد تبون; born 17 November 1945) is an Algerian politician currently serving as the President of Algeria since December 2019 and as Minister of Defence.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "President of Algeria"
-                },
-                {
-                  "text": "Minister of Defence",
-                  "type": "internal",
-                  "page": "Defence minister"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Abdelmadjid Tebboune"
-                ]
-              }
-            },
-            {
-              "text": "He took over the power from former President Abdelaziz Bouteflika and former Acting Head of State Abdelkader Bensalah.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Abdelaziz Bouteflika"
-                },
-                {
-                  "type": "internal",
-                  "page": "Abdelkader Bensalah"
-                }
-              ]
-            },
-            {
-              "text": "Previously, he was Prime Minister of Algeria from May 2017 to August 2017.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Prime Minister of Algeria"
-                }
-              ]
-            },
-            {
-              "text": "In addition, he was also Minister of Housing from 2001 to 2002 for a year and again from 2012 to 2017 for 5 years.",
-              "links": [
-                {
-                  "text": "Minister of Housing",
-                  "type": "internal",
-                  "page": "Housing minister"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "President of Algeria since 2019",
-          "template": "short description"
-        },
-        {
-          "list": [
-            "Additional offices"
-          ],
-          "template": "collapsed infobox section begin"
-        },
-        {
-          "template": "collapsed infobox section end"
-        },
-        {
-          "year": "1945",
-          "month": "11",
-          "day": "17",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "honorific_prefix": {
-            "text": "His Excellency",
-            "links": [
-              {
-                "type": "internal",
-                "page": "His Excellency"
-              }
-            ]
-          },
-          "name": {
-            "text": "Abdelmadjid Tebboune"
-          },
-          "native_name": {
-            "text": "عبد المجيد تبون"
-          },
-          "honorific_suffix": {
-            "text": "GMNOM",
-            "links": [
-              {
-                "text": "GMNOM",
-                "type": "internal",
-                "page": "National Order of Merit (Algeria)"
-              }
-            ]
-          },
-          "image": {
-            "text": "Абдельмаджид Теббун (06-11-2021).jpg"
-          },
-          "caption": {
-            "text": "Tebboune in 2021"
-          },
-          "office": {
-            "text": "8th President of Algeria",
-            "links": [
-              {
-                "type": "internal",
-                "page": "President of Algeria"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "19 December 2019"
-          },
-          "predecessor": {
-            "text": "Abdelkader Bensalah (Acting)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Abdelkader Bensalah"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Sabri Boukadoum (Acting) Abdelaziz Djerad Aymen Benabderrahmane",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sabri Boukadoum"
-              },
-              {
-                "type": "internal",
-                "page": "Abdelaziz Djerad"
-              },
-              {
-                "type": "internal",
-                "page": "Aymen Benabderrahmane"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Minister of Defence"
-          },
-          "term_start1": {
-            "text": "19 December 2019"
-          },
-          "predecessor1": {
-            "text": "Ahmed Gaid Salah (Acting) Abdelaziz Bouteflika (de jure)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ahmed Gaid Salah"
-              },
-              {
-                "type": "internal",
-                "page": "Abdelaziz Bouteflika"
-              },
-              {
-                "text": "de jure",
-                "type": "internal",
-                "page": "de jure"
-              }
-            ],
-            "formatting": {
-              "italic": [
-                "de jure"
-              ]
-            }
-          },
-          "president1": {
-            "text": "Himself",
-            "formatting": {
-              "italic": [
-                "Himself"
-              ]
-            }
-          },
-          "primeminister1": {
-            "text": "Sabri Boukadoum (Acting) Abdelaziz Djerad Aymen Benabderrahmane",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sabri Boukadoum"
-              },
-              {
-                "type": "internal",
-                "page": "Abdelaziz Djerad"
-              },
-              {
-                "type": "internal",
-                "page": "Aymen Benabderrahmane"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Prime Minister of Algeria"
-          },
-          "order2": {
-            "text": "16th"
-          },
-          "president2": {
-            "text": "Abdelaziz Bouteflika",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Abdelaziz Bouteflika"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "25 May 2017"
-          },
-          "term_end2": {
-            "text": "15 August 2017"
-          },
-          "predecessor2": {
-            "text": "Abdelmalek Sellal",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Abdelmalek Sellal"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Ahmed Ouyahia",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ahmed Ouyahia"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Minister of Commerce (Interim)"
-          },
-          "president3": {
-            "text": "Abdelaziz Bouteflika",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Abdelaziz Bouteflika"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "19 January 2017"
-          },
-          "term_end3": {
-            "text": "15 August 2017"
-          },
-          "predecessor3": {
-            "text": "Bakhti Belaïb",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bakhti Belaïb"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Ahmed Saci",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ahmed Saci"
-              }
-            ]
-          },
-          "office4": {
-            "text": "Minister of Housing and Urban Development and the City"
-          },
-          "president4": {
-            "text": "Abdelaziz Bouteflika",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Abdelaziz Bouteflika"
-              }
-            ]
-          },
-          "primeminister4": {
-            "text": "Abdelmalek Sellal",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Abdelmalek Sellal"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "3 September 2012"
-          },
-          "term_end4": {
-            "text": "25 May 2017"
-          },
-          "predecessor4": {
-            "text": "Noureddine Moussa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Noureddine Moussa"
-              }
-            ]
-          },
-          "successor4": {
-            "text": "Youcef Cherfa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Youcef Cherfa"
-              }
-            ]
-          },
-          "office5": {
-            "text": "Minister of Housing and Urban Development"
-          },
-          "president5": {
-            "text": "Abdelaziz Bouteflika",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Abdelaziz Bouteflika"
-              }
-            ]
-          },
-          "primeminister5": {
-            "text": "Ali Benflis",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ali Benflis"
-              }
-            ]
-          },
-          "term_start5": {
-            "text": "31 May 2001"
-          },
-          "term_end5": {
-            "text": "4 June 2002"
-          },
-          "successor5": {
-            "text": "Mohamed Nadir Hamimid",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mohamed Nadir Hamimid"
-              }
-            ]
-          },
-          "predecessor5": {
-            "text": "Abdellah Bounekraf",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Abdellah Bounekraf"
-              }
-            ]
-          },
-          "office6": {
-            "text": "Minister Delegate for Local Communities"
-          },
-          "president6": {
-            "text": "Abdelaziz Bouteflika",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Abdelaziz Bouteflika"
-              }
-            ]
-          },
-          "primeminister6": {
-            "text": "Ali Benflis",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ali Benflis"
-              }
-            ]
-          },
-          "term_start6": {
-            "text": "26 June 2000"
-          },
-          "term_end6": {
-            "text": "31 May 2001"
-          },
-          "predecessor6": {
-            "text": "Noureddine Kasdali",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Noureddine Kasdali"
-              }
-            ]
-          },
-          "successor6": {
-            "text": "Dahou Ould Kablia",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Dahou Ould Kablia"
-              }
-            ]
-          },
-          "office7": {
-            "text": "Minister of Communication and Culture"
-          },
-          "president7": {
-            "text": "Abdelaziz Bouteflika",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Abdelaziz Bouteflika"
-              }
-            ]
-          },
-          "primeminister7": {
-            "text": "Ahmed Benbitour",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ahmed Benbitour"
-              }
-            ]
-          },
-          "term_start7": {
-            "text": "23 December 1999"
-          },
-          "term_end7": {
-            "text": "26 June 2000"
-          },
-          "predecessor7": {
-            "text": "Abdelaziz Rahabi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Abdelaziz Rahabi"
-              }
-            ]
-          },
-          "successor7": {
-            "text": "Mahieddine Amimour",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mahieddine Amimour"
-              }
-            ]
-          },
-          "office8": {
-            "text": "Minister Delegate for Local Communities"
-          },
-          "president8": {
-            "text": "Chadli Bendjedid Mohamed Boudiaf",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Chadli Bendjedid"
-              },
-              {
-                "type": "internal",
-                "page": "Mohamed Boudiaf"
-              }
-            ]
-          },
-          "primeminister8": {
-            "text": "Sid Ahmed Ghozali",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sid Ahmed Ghozali"
-              }
-            ]
-          },
-          "predecessor8": {
-            "text": "Benali Henni",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Benali Henni"
-              }
-            ]
-          },
-          "successor8": {
-            "text": "Ahmed Noui (Secretary of State)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ahmed Noui"
-              }
-            ]
-          },
-          "term_start8": {
-            "text": "18 June 1991"
-          },
-          "term_end8": {
-            "text": "22 February 1992"
-          },
-          "office9": {
-            "text": "Wali of Tizi Ouzou (president of the High State Committee)",
-            "links": [
-              {
-                "text": "Tizi Ouzou",
-                "type": "internal",
-                "page": "Tizi Ouzou Province"
-              }
-            ]
-          },
-          "term_start9": {
-            "text": "26 July 1989"
-          },
-          "term_end9": {
-            "text": "18 June 1991"
-          },
-          "predecessor9": {
-            "text": "Ahmed El Ghazi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ahmed El Ghazi"
-              }
-            ]
-          },
-          "successor9": {
-            "text": "Mostefa Benmansour",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mostefa Benmansour"
-              }
-            ]
-          },
-          "office10": {
-            "text": "Wali of Tiaret",
-            "links": [
-              {
-                "text": "Tiaret",
-                "type": "internal",
-                "page": "Tiaret Province"
-              }
-            ]
-          },
-          "term_start10": {
-            "text": "13 May 1984"
-          },
-          "term_end10": {
-            "text": "10 July 1989"
-          },
-          "predecessor10": {
-            "text": "Mohamed Seghir Hamrouchi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mohamed Seghir Hamrouchi"
-              }
-            ]
-          },
-          "successor10": {
-            "text": "Rabah Boubertakh",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Rabah Boubertakh"
-              }
-            ]
-          },
-          "office11": {
-            "text": "Wali of Adrar",
-            "links": [
-              {
-                "text": "Adrar",
-                "type": "internal",
-                "page": "Adrar Province"
-              }
-            ]
-          },
-          "term_start11": {
-            "text": "30 January 1983"
-          },
-          "term_end11": {
-            "text": "13 May 1984"
-          },
-          "predecessor11": {
-            "text": "Abdelkrim Bouderghouma",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Abdelkrim Bouderghouma"
-              }
-            ]
-          },
-          "successor11": {
-            "text": "Abdelmalek Sellal",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Abdelmalek Sellal"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "November 17, 1945"
-          },
-          "birth_place": {
-            "text": "Mécheria, Algeria",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mécheria"
-              },
-              {
-                "text": "Algeria",
-                "type": "internal",
-                "page": "French Algeria"
-              }
-            ]
-          },
-          "party": {
-            "text": "National Liberation Front",
-            "links": [
-              {
-                "text": "National Liberation Front",
-                "type": "internal",
-                "page": "National Liberation Front (Algeria)"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "Algerian",
-            "links": [
-              {
-                "text": "Algerian",
-                "type": "internal",
-                "page": "Algeria"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "honorific_prefix": "His Excellency",
+  "name": "Abdelmadjid Tebboune",
+  "native_name": "عبد المجيد تبون",
+  "honorific_suffix": "GMNOM",
+  "image": "Абдельмаджид Теббун (06-11-2021).jpg",
+  "caption": "Tebboune in 2021",
+  "office": "8th President of Algeria",
+  "term_start": "19 December 2019",
+  "predecessor": "Abdelkader Bensalah (Acting)",
+  "primeminister": "Sabri Boukadoum (Acting) Abdelaziz Djerad Aymen Benabderrahmane",
+  "office1": "Minister of Defence",
+  "term_start1": "19 December 2019",
+  "predecessor1": "Ahmed Gaid Salah (Acting) Abdelaziz Bouteflika (de jure)",
+  "president1": "Himself",
+  "primeminister1": "Sabri Boukadoum (Acting) Abdelaziz Djerad Aymen Benabderrahmane",
+  "office2": "Prime Minister of Algeria",
+  "order2": "16th",
+  "president2": "Abdelaziz Bouteflika",
+  "term_start2": "25 May 2017",
+  "term_end2": "15 August 2017",
+  "predecessor2": "Abdelmalek Sellal",
+  "successor2": "Ahmed Ouyahia",
+  "office3": "Minister of Commerce (Interim)",
+  "president3": "Abdelaziz Bouteflika",
+  "term_start3": "19 January 2017",
+  "term_end3": "15 August 2017",
+  "predecessor3": "Bakhti Belaïb",
+  "successor3": "Ahmed Saci",
+  "office4": "Minister of Housing and Urban Development and the City",
+  "president4": "Abdelaziz Bouteflika",
+  "primeminister4": "Abdelmalek Sellal",
+  "term_start4": "3 September 2012",
+  "term_end4": "25 May 2017",
+  "predecessor4": "Noureddine Moussa",
+  "successor4": "Youcef Cherfa",
+  "office5": "Minister of Housing and Urban Development",
+  "president5": "Abdelaziz Bouteflika",
+  "primeminister5": "Ali Benflis",
+  "term_start5": "31 May 2001",
+  "term_end5": "4 June 2002",
+  "successor5": "Mohamed Nadir Hamimid",
+  "predecessor5": "Abdellah Bounekraf",
+  "office6": "Minister Delegate for Local Communities",
+  "president6": "Abdelaziz Bouteflika",
+  "primeminister6": "Ali Benflis",
+  "term_start6": "26 June 2000",
+  "term_end6": "31 May 2001",
+  "predecessor6": "Noureddine Kasdali",
+  "successor6": "Dahou Ould Kablia",
+  "office7": "Minister of Communication and Culture",
+  "president7": "Abdelaziz Bouteflika",
+  "primeminister7": "Ahmed Benbitour",
+  "term_start7": "23 December 1999",
+  "term_end7": "26 June 2000",
+  "predecessor7": "Abdelaziz Rahabi",
+  "successor7": "Mahieddine Amimour",
+  "office8": "Minister Delegate for Local Communities",
+  "president8": "Chadli Bendjedid Mohamed Boudiaf",
+  "primeminister8": "Sid Ahmed Ghozali",
+  "predecessor8": "Benali Henni",
+  "successor8": "Ahmed Noui (Secretary of State)",
+  "term_start8": "18 June 1991",
+  "term_end8": "22 February 1992",
+  "office9": "Wali of Tizi Ouzou (president of the High State Committee)",
+  "term_start9": "26 July 1989",
+  "term_end9": "18 June 1991",
+  "predecessor9": "Ahmed El Ghazi",
+  "successor9": "Mostefa Benmansour",
+  "office10": "Wali of Tiaret",
+  "term_start10": "13 May 1984",
+  "term_end10": "10 July 1989",
+  "predecessor10": "Mohamed Seghir Hamrouchi",
+  "successor10": "Rabah Boubertakh",
+  "office11": "Wali of Adrar",
+  "term_start11": "30 January 1983",
+  "term_end11": "13 May 1984",
+  "predecessor11": "Abdelkrim Bouderghouma",
+  "successor11": "Abdelmalek Sellal",
+  "birth_date": "November 17, 1945",
+  "birth_place": "Mécheria, Algeria",
+  "party": "National Liberation Front",
+  "nationality": "Algerian"
 }

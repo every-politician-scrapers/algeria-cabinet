@@ -1,233 +1,25 @@
 {
-  "title": "Ramtane Lamamra",
-  "pageID": 41336550,
-  "categories": [
-    "1952 births",
-    "Living people",
-    "Ambassadors of Algeria to the United States",
-    "Foreign ministers of Algeria",
-    "Permanent Representatives of Algeria to the United Nations",
-    "21st-century Algerian people"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Ramtane Lamamra (رمطان لعمامرة); born 15 June 1952, is an Algerian diplomat and Minister of Foreign Affairs of Algeria.",
-              "links": [
-                {
-                  "text": "Minister of Foreign Affairs of Algeria",
-                  "type": "internal",
-                  "page": "List of Ministers of Foreign Affairs of Algeria"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Ramtane Lamamra"
-                ]
-              }
-            },
-            {
-              "text": "He was the African Union's Commissioner for Peace and Security from 2008 to 2013 and Minister of Foreign Affairs from 2013 to 2017 and briefly in March 2019.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "African Union"
-                },
-                {
-                  "text": "Commissioner for Peace and Security",
-                  "type": "internal",
-                  "page": "African Union Commission"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Algerian politician and diplomat",
-          "template": "short description"
-        },
-        {
-          "date": "August 2020",
-          "template": "use dmy dates"
-        },
-        {
-          "df": "yes",
-          "year": "1952",
-          "month": "6",
-          "day": "15",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Ramtane Lamamra"
-          },
-          "image": {
-            "text": "Ramtane Lamamra (cropped).jpg"
-          },
-          "caption": {
-            "text": "Ramtane Lamamra in 2014"
-          },
-          "office": {
-            "text": "Minister of Foreign Affairs",
-            "links": [
-              {
-                "text": "Minister of Foreign Affairs",
-                "type": "internal",
-                "page": "Minister of Foreign Affairs (Algeria)"
-              }
-            ]
-          },
-          "president": {
-            "text": "Abdelmadjid Tebboune",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Abdelmadjid Tebboune"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Aymen Benabderrahmane",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Aymen Benabderrahmane"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "7 July 2021"
-          },
-          "predecessor": {
-            "text": "Sabri Boukadoum",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sabri Boukadoum"
-              }
-            ]
-          },
-          "president2": {
-            "text": "Abdelaziz Bouteflika",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Abdelaziz Bouteflika"
-              }
-            ]
-          },
-          "primeminister2": {
-            "text": "Noureddine Bedoui",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Noureddine Bedoui"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "13 March 2019"
-          },
-          "term_end2": {
-            "text": "31 March 2019"
-          },
-          "predecessor2": {
-            "text": "Abdelkader Messahel",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Abdelkader Messahel"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Sabri Boukadoum",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sabri Boukadoum"
-              }
-            ]
-          },
-          "president3": {
-            "text": "Abdelaziz Bouteflika",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Abdelaziz Bouteflika"
-              }
-            ]
-          },
-          "primeminister3": {
-            "text": "Abdelmalek Sellal",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Abdelmalek Sellal"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "11 September 2013"
-          },
-          "term_end3": {
-            "text": "25 May 2017"
-          },
-          "predecessor3": {
-            "text": "Mourad Medelci",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mourad Medelci"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Abdelkader Messahel",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Abdelkader Messahel"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "June 15, 1952"
-          },
-          "birth_place": {
-            "text": "Amizour, Algeria",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Amizour"
-              },
-              {
-                "type": "internal",
-                "page": "Algeria"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "École nationale d'administration d'Algiers",
-            "links": [
-              {
-                "text": "École nationale d'administration d'Algiers",
-                "type": "internal",
-                "page": "École nationale d'administration"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Ramtane Lamamra",
+  "image": "Ramtane Lamamra (cropped).jpg",
+  "caption": "Ramtane Lamamra in 2014",
+  "office": "Minister of Foreign Affairs",
+  "president": "Abdelmadjid Tebboune",
+  "primeminister": "Aymen Benabderrahmane",
+  "term_start": "7 July 2021",
+  "predecessor": "Sabri Boukadoum",
+  "president2": "Abdelaziz Bouteflika",
+  "primeminister2": "Noureddine Bedoui",
+  "term_start2": "13 March 2019",
+  "term_end2": "31 March 2019",
+  "predecessor2": "Abdelkader Messahel",
+  "successor2": "Sabri Boukadoum",
+  "president3": "Abdelaziz Bouteflika",
+  "primeminister3": "Abdelmalek Sellal",
+  "term_start3": "11 September 2013",
+  "term_end3": "25 May 2017",
+  "predecessor3": "Mourad Medelci",
+  "successor3": "Abdelkader Messahel",
+  "birth_date": "June 15, 1952",
+  "birth_place": "Amizour, Algeria",
+  "alma_mater": "École nationale d'administration d'Algiers"
 }

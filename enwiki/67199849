@@ -1,235 +1,25 @@
 {
-  "title": "Mohamed Arkab",
-  "pageID": 67199849,
-  "categories": [
-    "1966 births",
-    "Living people",
-    "Algerian people",
-    "People from Ammal",
-    "People from Thénia District",
-    "People from Boumerdès Province",
-    "Kabyle people",
-    "Mechanical engineers",
-    "University of Science and Technology Houari Boumediene alumni",
-    "Algerian chief executives",
-    "Algerian Ministers of Energy and Mines",
-    "Government ministers of Algeria",
-    "21st-century Algerian people"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Mohamed Arkab (born 19 February 1966) is an Algerian politician who is serving as Minister of Energy since 22 February 2021.",
-              "links": [
-                {
-                  "text": "Minister of Energy",
-                  "type": "internal",
-                  "page": "Ministry of Energy and Mining (Algeria)"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Mohamed Arkab"
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Algerian politician and minister",
-          "template": "short description"
-        },
-        {
-          "date": "March 2021",
-          "template": "use dmy dates"
-        },
-        {
-          "list": [
-            "Mohamed Arkab"
-          ],
-          "date": "March 2021",
-          "template": "expand french"
-        },
-        {
-          "year": "1966",
-          "month": "2",
-          "day": "19",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Mohamed Arkab"
-          },
-          "native_name": {
-            "text": "محمد عرقاب"
-          },
-          "native_name_lang": {
-            "text": "ar"
-          },
-          "office": {
-            "text": "Minister of Energy",
-            "links": [
-              {
-                "text": "Minister of Energy",
-                "type": "internal",
-                "page": "Ministry of Energy and Mining (Algeria)"
-              }
-            ]
-          },
-          "president": {
-            "text": "Abdelmadjid Tebboune",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Abdelmadjid Tebboune"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "22 February 2021"
-          },
-          "predecessor": {
-            "text": "Abdelmadjid Attar",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Abdelmadjid Attar"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Minister of Mining",
-            "links": [
-              {
-                "text": "Minister of Mining",
-                "type": "internal",
-                "page": "Ministry of Energy and Mining (Algeria)"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "1 April 2019"
-          },
-          "term_end2": {
-            "text": "22 February 2021"
-          },
-          "predecessor2": {
-            "text": "Mustapha Guitouni",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mustapha Guitouni"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Director general of Sonelgaz",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Director general"
-              },
-              {
-                "type": "internal",
-                "page": "Sonelgaz"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "30 August 2017"
-          },
-          "term_end3": {
-            "text": "1 April 2019"
-          },
-          "predecessor3": {
-            "text": "Mustapha Guitouni",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mustapha Guitouni"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Chahar Boulakhras",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Chahar Boulakhras"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "February 19, 1966"
-          },
-          "birth_place": {
-            "text": "Hussein Dey, 🇩🇿 algeria",
-            "links": [
-              {
-                "text": "Hussein Dey",
-                "type": "internal",
-                "page": "Hussein Dey (commune)"
-              },
-              {
-                "text": "algeria",
-                "type": "internal",
-                "page": "algeria"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "Algerian",
-            "links": [
-              {
-                "text": "Algerian",
-                "type": "internal",
-                "page": "Algerians"
-              }
-            ]
-          },
-          "party": {
-            "text": "Independent",
-            "links": [
-              {
-                "text": "Independent",
-                "type": "internal",
-                "page": "Independent politician"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "University of Science and Technology Houari Boumediene",
-            "links": [
-              {
-                "type": "internal",
-                "page": "University of Science and Technology Houari Boumediene"
-              }
-            ]
-          },
-          "occupation": {
-            "text": "*Chief executive officer\n*Director general\n*Minister",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Director general"
-              }
-            ]
-          },
-          "profession": {
-            "text": "*Mechanical engineer\n*Politician"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Mohamed Arkab",
+  "native_name": "محمد عرقاب",
+  "native_name_lang": "ar",
+  "office": "Minister of Energy",
+  "president": "Abdelmadjid Tebboune",
+  "term_start": "22 February 2021",
+  "predecessor": "Abdelmadjid Attar",
+  "office2": "Minister of Mining",
+  "term_start2": "1 April 2019",
+  "term_end2": "22 February 2021",
+  "predecessor2": "Mustapha Guitouni",
+  "office3": "Director general of Sonelgaz",
+  "term_start3": "30 August 2017",
+  "term_end3": "1 April 2019",
+  "predecessor3": "Mustapha Guitouni",
+  "successor3": "Chahar Boulakhras",
+  "birth_date": "February 19, 1966",
+  "birth_place": "Hussein Dey, 🇩🇿 algeria",
+  "nationality": "Algerian",
+  "party": "Independent",
+  "alma_mater": "University of Science and Technology Houari Boumediene",
+  "occupation": "*Chief executive officer\n*Director general\n*Minister",
+  "profession": "*Mechanical engineer\n*Politician"
 }
