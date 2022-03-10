@@ -1,188 +1,20 @@
 {
-  "title": "Aymen Benabderrahmane",
-  "pageID": 68092011,
-  "categories": [
-    "1966 births",
-    "Living people",
-    "Prime Ministers of Algeria",
-    "Finance ministers of Algeria",
-    "Governors of the Bank of Algeria",
-    "People from Algiers",
-    "Algerian economists",
-    "20th-century economists",
-    "21st-century economists",
-    "COVID-19 pandemic in Algeria",
-    "21st-century Algerian people"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Aymen Benabderrahmane (أيمن بن عبد الرحمان; born 30 August 1966) is an Algerian politician who is serving as Prime Minister of Algeria since 30 June 2021 and Minister of Finance since 23 June 2020.",
-              "links": [
-                {
-                  "text": "Algerian",
-                  "type": "internal",
-                  "page": "Algeria"
-                },
-                {
-                  "type": "internal",
-                  "page": "Prime Minister of Algeria"
-                },
-                {
-                  "text": "Minister of Finance",
-                  "type": "internal",
-                  "page": "Ministry of Finance (Algeria)"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Aymen Benabderrahmane"
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Algerian politician",
-          "template": "short description"
-        },
-        {
-          "date": "August 2020",
-          "template": "use dmy dates"
-        },
-        {
-          "year": "1966",
-          "month": "08",
-          "day": "30",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Aymen Benabderrahmane"
-          },
-          "native_name": {
-            "text": "أيمن بن عبد الرحمان"
-          },
-          "native_name_lang": {
-            "text": "ar"
-          },
-          "image": {
-            "text": "Aymen Benabderrahmane, Radio Algérienne - Mar 23, 2021.jpg"
-          },
-          "caption": {
-            "text": "Benabderrahmane in March 2021"
-          },
-          "office": {
-            "text": "Prime Minister of Algeria",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Prime Minister of Algeria"
-              }
-            ]
-          },
-          "president": {
-            "text": "Abdelmadjid Tebboune",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Abdelmadjid Tebboune"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "30 June 2021"
-          },
-          "predecessor": {
-            "text": "Abdelaziz Djerad",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Abdelaziz Djerad"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Minister of Finance",
-            "links": [
-              {
-                "text": "Minister of Finance",
-                "type": "internal",
-                "page": "Ministry of Finance (Algeria)"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "23 June 2020"
-          },
-          "primeminister1": {
-            "text": "Abdelaziz Djerad Himself",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Abdelaziz Djerad"
-              }
-            ],
-            "formatting": {
-              "italic": [
-                "Himself"
-              ]
-            }
-          },
-          "predecessor1": {
-            "text": "Abderrahmane Raouya"
-          },
-          "birth_date": {
-            "text": "August 30, 1966"
-          },
-          "birth_place": {
-            "text": "Algiers, Algeria",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Algiers"
-              },
-              {
-                "type": "internal",
-                "page": "Algeria"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "Algerian",
-            "links": [
-              {
-                "text": "Algerian",
-                "type": "internal",
-                "page": "Algerians"
-              }
-            ]
-          },
-          "party": {
-            "text": "Independent",
-            "links": [
-              {
-                "text": "Independent",
-                "type": "internal",
-                "page": "Independent politician"
-              }
-            ]
-          },
-          "profession": {
-            "text": "Politician"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Aymen Benabderrahmane",
+  "native_name": "أيمن بن عبد الرحمان",
+  "native_name_lang": "ar",
+  "image": "Aymen Benabderrahmane, Radio Algérienne - Mar 23, 2021.jpg",
+  "caption": "Benabderrahmane in March 2021",
+  "office": "Prime Minister of Algeria",
+  "president": "Abdelmadjid Tebboune",
+  "term_start": "30 June 2021",
+  "predecessor": "Abdelaziz Djerad",
+  "office1": "Minister of Finance",
+  "term_start1": "23 June 2020",
+  "primeminister1": "Abdelaziz Djerad Himself",
+  "predecessor1": "Abderrahmane Raouya",
+  "birth_date": "August 30, 1966",
+  "birth_place": "Algiers, Algeria",
+  "nationality": "Algerian",
+  "party": "Independent",
+  "profession": "Politician"
 }

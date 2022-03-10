@@ -1,140 +1,16 @@
 {
-  "title": "Kamel Beldjoud",
-  "pageID": 63374819,
-  "categories": [
-    "Interior ministers of Algeria",
-    "1957 births",
-    "Living people",
-    "People from Algiers",
-    "21st-century Algerian people"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Kamel Beldjoud (كمال بلجود, born in 1957 in Algiers) is an Algerian politician.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Algiers"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Kamel Beldjoud"
-                ]
-              }
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "He has held several positions in state institutions since 1982."
-            },
-            {
-              "text": "He was Minister of Housing, Town Planning and the City from March 31 to December 19, 2019, then Minister of the Interior, Local Government and Regional Planning since December 19, 2019."
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Algerian politician",
-          "template": "short description"
-        },
-        {
-          "date": "June 2020",
-          "template": "blp sources"
-        },
-        {
-          "birth_year": "1957",
-          "template": "birth year and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Kamel Beldjoud"
-          },
-          "office": {
-            "text": "Minister of Interior and Local Government"
-          },
-          "birth_date": {
-            "text": "1957 (age 65)"
-          },
-          "birth_place": {
-            "text": "Algiers, French Algeria",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Algiers"
-              },
-              {
-                "type": "internal",
-                "page": "French Algeria"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "Algerian",
-            "links": [
-              {
-                "text": "Algerian",
-                "type": "internal",
-                "page": "Algeria"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Minister of Housing and Urban Development"
-          },
-          "predecessor": {
-            "text": "Salah Eddine Dahmoune"
-          },
-          "succeeded1": {
-            "text": "Kamel Nasri"
-          },
-          "termstart": {
-            "text": "19 December 2019"
-          },
-          "termstart1": {
-            "text": "2 April 2019"
-          },
-          "termend1": {
-            "text": "4 January 2020"
-          },
-          "president": {
-            "text": "Abdelmadjid Tebboune",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Abdelmadjid Tebboune"
-              }
-            ]
-          },
-          "president1": {
-            "text": "Abdelmadjid Tebboune\nAbdelkader Bensalah (Acting)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Abdelmadjid Tebboune"
-              },
-              {
-                "type": "internal",
-                "page": "Abdelkader Bensalah"
-              }
-            ]
-          },
-          "preceded1": {
-            "text": "Abdelwahid Temmar"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Kamel Beldjoud",
+  "office": "Minister of Interior and Local Government",
+  "birth_date": "1957 (age 65)",
+  "birth_place": "Algiers, French Algeria",
+  "nationality": "Algerian",
+  "office1": "Minister of Housing and Urban Development",
+  "predecessor": "Salah Eddine Dahmoune",
+  "succeeded1": "Kamel Nasri",
+  "termstart": "19 December 2019",
+  "termstart1": "2 April 2019",
+  "termend1": "4 January 2020",
+  "president": "Abdelmadjid Tebboune",
+  "president1": "Abdelmadjid Tebboune\nAbdelkader Bensalah (Acting)",
+  "preceded1": "Abdelwahid Temmar"
 }
