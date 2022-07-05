@@ -7,27 +7,17 @@ require 'pry'
 class MemberList
   class Member
     def name
-      noko.css('.ministere-nom').text.tidy
+      noko.css('h3').text.tidy
     end
-
-    POSITION_MAP = {
-      'Premier Ministre Ministre des finances' => ['Premier Ministre', 'Ministre des finances']
-    }
 
     def position
-      POSITION_MAP.fetch(raw_position, raw_position)
-    end
-
-    private
-
-    def raw_position
-      noko.css('.ministere-link').text.tidy
+      noko.css('h4').text.tidy
     end
   end
 
   class Members
     def member_container
-      noko.css('.pm-composition-pm-carte, .composition-ministre-carte')
+      noko.css('div.member')
     end
   end
 end
