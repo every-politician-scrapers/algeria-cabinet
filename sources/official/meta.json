@@ -9,8 +9,8 @@
       "parent": "Q5015487"
     },
     "source": {
-        "url":   "http://www.premier-ministre.gov.dz/fr/gouvernement/compostion-actuel",
-        "title": "Le portail du Premier Ministère | Composition du gouvernement",
+        "url":   "https://premier-ministre.gov.dz/fr/gouvernement/composition",
+        "title": "Services du Premier Ministre | Composition du Gouvernement",
         "lang":  {
             "code": "fr",
             "wikidata": "Q150"
