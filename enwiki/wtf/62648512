@@ -1,0 +1,376 @@
+{
+  "title": "Saïd Chengriha",
+  "pageID": 62648512,
+  "categories": [
+    "1945 births",
+    "People from Biskra Province",
+    "Algerian generals",
+    "Chaoui people",
+    "Living people",
+    "21st-century Algerian people"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Saïd Chengriha (سعيد شنقريحة; born 1 August 1945) is a senior official in the Algerian People's National Army.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Algerian People's National Army"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Saïd Chengriha"
+                ]
+              }
+            },
+            {
+              "text": "He was the commander of the ground forces and served as the army's interim chief of staff after the death of Ahmed Gaid Salah on 23 December 2019 until 3 July 2020 when he was officially appointed by President Abdelmadjid Tebboune.",
+              "links": [
+                {
+                  "text": "chief of staff",
+                  "type": "internal",
+                  "page": "Chief of Staff of the People's National Army"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ahmed Gaid Salah"
+                },
+                {
+                  "type": "internal",
+                  "page": "Abdelmadjid Tebboune"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Algerian military officer",
+          "template": "short description"
+        },
+        {
+          "year": "1945",
+          "month": "08",
+          "day": "01",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Saïd Chengriha سعيد شنقريحة"
+          },
+          "image": {
+            "text": "Saïd Chengriha (50406101782) (cropped).jpg"
+          },
+          "caption": {
+            "text": "Chengriha in 2020"
+          },
+          "office": {
+            "text": "Chief of Staff of the People's National Army",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chief of Staff of the People's National Army"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "23 December 2019"
+          },
+          "predecessor": {
+            "text": "Ahmed Gaid Salah",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ahmed Gaid Salah"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Commander of Ground Forces"
+          },
+          "term_start1": {
+            "text": "September 2018"
+          },
+          "term_end1": {
+            "text": "March    2020"
+          },
+          "birth_date": {
+            "text": "August 1, 1945"
+          },
+          "birth_place": {
+            "text": "El Kantara, Algeria",
+            "links": [
+              {
+                "type": "internal",
+                "page": "El Kantara"
+              }
+            ]
+          },
+          "allegiance": {
+            "text": "🇩🇿 Algeria",
+            "links": [
+              {
+                "text": "Algeria",
+                "type": "internal",
+                "page": "algeria"
+              }
+            ]
+          },
+          "branch": {
+            "text": "ANP.png Algerian People's National Army",
+            "links": [
+              {
+                "text": "Algerian People's National Army",
+                "type": "internal",
+                "page": "People's National Army (Algeria)"
+              }
+            ]
+          },
+          "rank": {
+            "text": "Army general",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Army general"
+              }
+            ]
+          },
+          "battles": {
+            "text": "Six-Day War\nYom Kippur War",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Six-Day War"
+              },
+              {
+                "type": "internal",
+                "page": "Yom Kippur War"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.aps.dz/en/algeria/32410-president-of-the-republic-appoints-major-general-said-chengriha-as-army-acting-chief",
+          "title": "President of the Republic appoints Major General, Saïd Chengriha, as Army Acting Chief",
+          "last": "Saci",
+          "first": "Yasmine",
+          "website": "www.aps.dz",
+          "language": "en-gb",
+          "access-date": "2019-12-23",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.aljazeera.com/news/2019/12/algerian-army-chief-ahmed-gaid-salah-dies-191223101013269.html",
+          "title": "Algerian army chief Ahmed Gaid Salah dies",
+          "website": "www.aljazeera.com",
+          "access-date": "2019-12-23",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Thouraya",
+          "first": "Chellouf",
+          "title": "Le Général de Corps d'Armée Saïd Chanegriha confirmé dans le poste de Chef d’état-major de l’ANP (MDN)",
+          "url": "http://www.aps.dz/algerie/106904-le-general-de-corps-d-armee-said-chanegriha-confirme-dans-le-poste-de-chef-d-etat-major-de-l-anp-mdn",
+          "access-date": "2020-07-03",
+          "website": "www.aps.dz",
+          "language": "fr-fr",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Le Commandant des Forces",
+          "website": "Ministère de la Défense Nationale",
+          "url": "https://www.mdn.dz/site_cft/index.php",
+          "language": "fr",
+          "access-date": "24 Dec 2019",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Military service",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "After graduating from Saint-Cyr Military Academy, Chengriha took part in the Six-Day War in 1967 and the Yom Kippur War in 1973.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Saint-Cyr Military Academy"
+                },
+                {
+                  "type": "internal",
+                  "page": "Six-Day War"
+                },
+                {
+                  "type": "internal",
+                  "page": "Yom Kippur War"
+                }
+              ]
+            },
+            {
+              "text": "He then attended the Voroshilov Academy.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Voroshilov Academy"
+                }
+              ]
+            },
+            {
+              "text": "He has received a number of awards, including the Military Order of Merit."
+            },
+            {
+              "text": "He was promoted to the rank of brigadier general in 1998 and then to major general in 2003.",
+              "links": [
+                {
+                  "text": "brigadier general",
+                  "type": "internal",
+                  "page": "brigadier general"
+                },
+                {
+                  "text": "major general",
+                  "type": "internal",
+                  "page": "major general"
+                }
+              ]
+            },
+            {
+              "text": "He became the commander of ground forces in September 2018 and was named acting chief of staff following the death of Ahmed Gaid Salah on 23 December 2019.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ahmed Gaid Salah"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 4 July 2022, Chengriha was promoted to the rank of Army general by president Tebboune, on the occasion of the 60th anniversary of the Algerian independence.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Army general"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "date": "4 July 2022",
+          "title": "Saïd Chanegriha promu au grade de Général d’armée par le Président Tebboune",
+          "url": "https://www.aps.dz/algerie/142413-anp-said-chanegriha-promu-au-grade-de-general-d-armee-par-le-president-tebboune",
+          "url-status": "live",
+          "archive-url": "https://web.archive.org/web/20220704115155/https://www.aps.dz/algerie/142413-anp-said-chanegriha-promu-au-grade-de-general-d-armee-par-le-president-tebboune",
+          "archive-date": "4 July 2022",
+          "access-date": "4 July 2022",
+          "website": "www.aps.dz",
+          "language": "fr",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "4 July 2022",
+          "title": "La remise des grades par le Président Tebboune, une honorable tradition qui vient orner les us de notre patrie et de l'institution militaire",
+          "url": "https://www.aps.dz/algerie/142436-la-remise-des-grades-par-le-president-tebboune-une-honorable-tradition-qui-vient-orner-les-us-de-notre-patrie-et-de-l-institution-militaire",
+          "url-status": "live",
+          "archive-url": "https://web.archive.org/web/20220704174103/https://www.aps.dz/algerie/142436-la-remise-des-grades-par-le-president-tebboune-une-honorable-tradition-qui-vient-orner-les-us-de-notre-patrie-et-de-l-institution-militaire",
+          "archive-date": "4 July 2022",
+          "access-date": "4 July 2022",
+          "website": "www.aps.dz",
+          "language": "fr",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Algérie : le chef d’état-major Saïd Chengriha imprime sa marque – Jeune Afrique",
+          "website": "JeuneAfrique.com",
+          "date": "7 Jul 2020",
+          "url": "https://www.jeuneafrique.com/1011366/politique/algerie-le-chef-detat-major-said-chengriha-imprime-sa-marque/",
+          "language": "fr",
+          "access-date": "11 Jul 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "En Algérie, les premiers pas du président Tebboune confronté au décès du général Gaïd Salah",
+          "website": "L'Opinion",
+          "date": "24 Dec 2019",
+          "url": "https://www.lopinion.fr/edition/international/algerie-premiers-pas-president-tebboune-confronte-deces-gaid-salah-206941",
+          "language": "fr",
+          "access-date": "24 Dec 2019",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Forson",
+          "first": "Viviane",
+          "title": "Qui est Saïd Chengriha, le nouveau patron de l'armée algérienne ?",
+          "website": "Le Point",
+          "date": "26 Dec 2019",
+          "url": "https://www.lepoint.fr/afrique/qui-est-said-chengriha-le-nouveau-patron-de-l-armee-algerienne-26-12-2019-2354822_3826.php",
+          "language": "fr",
+          "access-date": "11 Jul 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.aps.dz/ar/algerie/81492-2019-12-23-10-12-41",
+          "title": "رئيس الجمهورية يعين اللواء سعيد شنقريحة رئيسا لأركان الجيش الوطني الشعبي بالنيابة",
+          "date": "23 December 2019",
+          "website": "Algeria Press Service",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Chengriha is married and has six children."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "authority control"
+        }
+      ]
+    }
+  ]
+}

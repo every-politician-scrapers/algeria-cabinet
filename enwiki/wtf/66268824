@@ -1,0 +1,187 @@
+{
+  "title": "Abderrahmane Benguerrah",
+  "pageID": 66268824,
+  "categories": [
+    "Ambassadors of Algeria to the United Kingdom",
+    "Permanent Representatives of Algeria to the United Nations",
+    "Year of birth missing (living people)",
+    "Living people",
+    "21st-century Algerian people"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Abderrahmane Benguerrah (عبد الرحمن بن قراح )is an Algerian diplomat.",
+              "formatting": {
+                "bold": [
+                  "Abderrahmane Benguerrah"
+                ]
+              }
+            },
+            {
+              "text": "He is currently serving as ambassador of the People's Democratic Republic of Algeria to India, Nepal Sri Lanka and the Maldives.",
+              "links": [
+                {
+                  "text": "People's Democratic Republic of Algeria",
+                  "type": "internal",
+                  "page": "Algeria"
+                }
+              ]
+            },
+            {
+              "text": "He previously served as Ambassador to The United Kingdom of Great Britain and Northern Ireland and as Permanent Representative of Algeria to the International Maritime organisation. He served also as Ambassador in the Algerian Permanent Mission to the United Nations in New York and  as ambassador to Senegal, The Gambia, Cabo Verde and Guinea Bissau and as Director General for American Affairs at the Algerian Ministry of Foreign Affairs.",
+              "links": [
+                {
+                  "text": "The United Kingdom of Great Britain and Northern Ireland",
+                  "type": "internal",
+                  "page": "United Kingdom"
+                },
+                {
+                  "type": "internal",
+                  "page": "Algeria"
+                },
+                {
+                  "text": "International Maritime organisation.",
+                  "type": "internal",
+                  "page": "International Maritime Organization"
+                },
+                {
+                  "type": "internal",
+                  "page": "United Nations"
+                },
+                {
+                  "text": "New York",
+                  "type": "internal",
+                  "page": "New York City"
+                },
+                {
+                  "type": "internal",
+                  "page": "Senegal"
+                },
+                {
+                  "type": "internal",
+                  "page": "The Gambia"
+                },
+                {
+                  "text": "Cabo Verde",
+                  "type": "internal",
+                  "page": "Cape Verde"
+                },
+                {
+                  "text": "Guinea Bissau",
+                  "type": "internal",
+                  "page": "Guinea-Bissau"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Algeria_visits_(49385253261).jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Algeria_visits_(49385253261).jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Algeria_visits_(49385253261).jpg",
+          "caption": "Abderrahmane Benguerrah (left) received by IMO Secretary-General Kitack Lim (right).",
+          "links": []
+        }
+      ],
+      "templates": [
+        {
+          "description": "Algerian economist and diplomat",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "title": "algerianembassy.org.uk - Activities of the Ambassador",
+          "url": "http://www.algerianembassy.org.uk/index.php/the-ambassador/activities-of-the-ambassador.html",
+          "access-date": "2021-01-02",
+          "website": "www.algerianembassy.org.uk",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "algerianembassy.org.uk - Biography Ambassador",
+          "url": "http://www.algerianembassy.org.uk/index.php/the-ambassador/biography.html",
+          "access-date": "2021-01-02",
+          "website": "www.algerianembassy.org.uk",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Education",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Benguerrah went to the University of New Hampshire, receiving a Bachelor of Science in Engineering, and a Bachelor of Arts in Economics and a Master of Arts in Economics from the same university.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of New Hampshire"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Abderrahmane Benguerrah was born, November 8, 1955, in Ain Bessem, W. Bouira, Algeria."
+            },
+            {
+              "text": "He is married to Fatiha Benguerrah and has three children",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Fatiha Benguerrah"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "date": "December 2020",
+          "title": "London Diplomatic List",
+          "url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/943404/London_Diplomatic_List_-_December_2020.odt",
+          "url-status": "live",
+          "access-date": "2 January 2021",
+          "website": "GOV.UK",
+          "publisher": "Foreign and Commonwealth Office",
+          "format": "ODT",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "algeria-diplomat-stub"
+        }
+      ]
+    }
+  ]
+}

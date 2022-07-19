@@ -1,0 +1,200 @@
+{
+  "title": "Kamel Beldjoud",
+  "pageID": 63374819,
+  "categories": [
+    "Interior ministers of Algeria",
+    "1957 births",
+    "Living people",
+    "People from Algiers",
+    "21st-century Algerian people"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Kamel Beldjoud (كمال بلجود, born in 1957 in Algiers) is an Algerian politician.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Algiers"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Kamel Beldjoud"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He has held several positions in state institutions since 1982."
+            },
+            {
+              "text": "He was Minister of Housing, Town Planning and the City from March 31 to December 19, 2019, then Minister of the Interior, Local Government and Regional Planning since December 19, 2019."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Algerian politician",
+          "template": "short description"
+        },
+        {
+          "date": "June 2020",
+          "template": "blp sources"
+        },
+        {
+          "birth_year": "1957",
+          "template": "birth year and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Kamel Beldjoud"
+          },
+          "office": {
+            "text": "Minister of Interior and Local Government"
+          },
+          "birth_date": {
+            "text": "1957 (age 65)"
+          },
+          "birth_place": {
+            "text": "Algiers, French Algeria",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Algiers"
+              },
+              {
+                "type": "internal",
+                "page": "French Algeria"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Algerian",
+            "links": [
+              {
+                "text": "Algerian",
+                "type": "internal",
+                "page": "Algeria"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Minister of Housing and Urban Development"
+          },
+          "predecessor": {
+            "text": "Salah Eddine Dahmoune"
+          },
+          "succeeded1": {
+            "text": "Kamel Nasri"
+          },
+          "termstart": {
+            "text": "19 December 2019"
+          },
+          "termstart1": {
+            "text": "2 April 2019"
+          },
+          "termend1": {
+            "text": "4 January 2020"
+          },
+          "president": {
+            "text": "Abdelmadjid Tebboune",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Abdelmadjid Tebboune"
+              }
+            ]
+          },
+          "president1": {
+            "text": "Abdelmadjid Tebboune\nAbdelkader Bensalah (Acting)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Abdelmadjid Tebboune"
+              },
+              {
+                "type": "internal",
+                "page": "Abdelkader Bensalah"
+              }
+            ]
+          },
+          "preceded1": {
+            "text": "Abdelwahid Temmar"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.elmoudjahid.com/fr/actualites/135430",
+          "title": "M. Kamel Beldjoud, ministre de l’Habitat, de l’urbanisme et de la ville : \" Fournir davantage d’efforts \"",
+          "date": "3 April 2019",
+          "accessdate": "16 March 2020",
+          "work": "El Moudjahid",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Algeria's presidency unveils new government",
+          "url": "https://www.thenationalnews.com/world/algeria-s-presidency-unveils-new-government-1.959214",
+          "access-date": "2020-11-05",
+          "website": "The National",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Algeria's presidency unveils new government",
+          "url": "https://www.trtworld.com/africa/algeria-s-presidency-unveils-new-government-32676",
+          "access-date": "2020-11-05",
+          "website": "Algeria's presidency unveils new government",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "See also",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Cabinet of Algeria",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Cabinet of Algeria"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    }
+  ]
+}
