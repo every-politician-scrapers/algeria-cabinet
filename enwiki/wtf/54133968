@@ -1481,6 +1481,20 @@
                   "page": "2022 Russian invasion of Ukraine"
                 }
               ]
+            },
+            {
+              "text": "On 18 July 2022, Tebboune signed an energy contract worth €4 billion for additional gas supply to Italy with Italian Prime Minister Mario Draghi in Algiers, making Algeria Italy's biggest gas supplier.",
+              "links": [
+                {
+                  "text": "Italian Prime Minister",
+                  "type": "internal",
+                  "page": "Prime Minister of Italy"
+                },
+                {
+                  "type": "internal",
+                  "page": "Mario Draghi"
+                }
+              ]
             }
           ]
         }
@@ -1832,6 +1846,26 @@
           "website": "Algeria Press Service",
           "template": "citation",
           "type": "web"
+        },
+        {
+          "date": "2022-07-18",
+          "title": "Algeria becomes Italy's biggest gas supplier in new €4bn deal",
+          "url": "https://www.euronews.com/2022/07/18/italys-draghi-visits-algeria-for-gas-talks-while-political-crisis-continues-at-home",
+          "access-date": "2022-07-19",
+          "website": "euronews",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2022-07-18",
+          "title": "Gas supplies from Algeria to Italy to increase in coming years - Draghi",
+          "language": "en",
+          "work": "Reuters",
+          "url": "https://www.reuters.com/article/italy-algeria-energy-idUKR1N2XM01O",
+          "access-date": "2022-07-19",
+          "template": "citation",
+          "type": "news"
         },
         {
           "url": "http://www.aps.dz/algerie/101975-le-president-de-la-republique-assure-que-le-hirak-est-un-phenomene-salutaire-et-met-en-garde-contre-toute-tentative-d-infiltration",
