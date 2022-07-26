@@ -1,0 +1,255 @@
+[
+  {
+    "office": {
+      "links": [
+        "Adrar Province"
+      ],
+      "stated_as": "Wali of Adrar"
+    },
+    "P580": "1983-01-30",
+    "P1365": {
+      "links": [
+        "Abdelkrim Bouderghouma"
+      ],
+      "stated_as": "Abdelkrim Bouderghouma"
+    },
+    "P582": "1984-05-13",
+    "P1366": {
+      "links": [
+        "Abdelmalek Sellal"
+      ],
+      "stated_as": "Abdelmalek Sellal"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Tiaret Province"
+      ],
+      "stated_as": "Wali of Tiaret"
+    },
+    "P580": "1984-05-13",
+    "P1365": {
+      "links": [
+        "Mohamed Seghir Hamrouchi"
+      ],
+      "stated_as": "Mohamed Seghir Hamrouchi"
+    },
+    "P582": "1989-07-10",
+    "P1366": {
+      "links": [
+        "Rabah Boubertakh"
+      ],
+      "stated_as": "Rabah Boubertakh"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Tizi Ouzou Province"
+      ],
+      "stated_as": "Wali of Tizi Ouzou (president of the High State Committee)"
+    },
+    "P580": "1989-07-26",
+    "P1365": {
+      "links": [
+        "Ahmed El Ghazi"
+      ],
+      "stated_as": "Ahmed El Ghazi"
+    },
+    "P582": "1991-06-18",
+    "P1366": {
+      "links": [
+        "Mostefa Benmansour"
+      ],
+      "stated_as": "Mostefa Benmansour"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister Delegate for Local Communities"
+    },
+    "P580": "1991-06-18",
+    "P1365": {
+      "links": [
+        "Benali Henni"
+      ],
+      "stated_as": "Benali Henni"
+    },
+    "P582": "1992-02-22",
+    "P1366": {
+      "links": [
+        "Ahmed Noui"
+      ],
+      "stated_as": "Ahmed Noui (Secretary of State)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Communication and Culture"
+    },
+    "P580": "1999-12-23",
+    "P1365": {
+      "links": [
+        "Abdelaziz Rahabi"
+      ],
+      "stated_as": "Abdelaziz Rahabi"
+    },
+    "P582": "2000-06-26",
+    "P1366": {
+      "links": [
+        "Mahieddine Amimour"
+      ],
+      "stated_as": "Mahieddine Amimour"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister Delegate for Local Communities"
+    },
+    "P580": "2000-06-26",
+    "P1365": {
+      "links": [
+        "Noureddine Kasdali"
+      ],
+      "stated_as": "Noureddine Kasdali"
+    },
+    "P582": "2001-05-31",
+    "P1366": {
+      "links": [
+        "Dahou Ould Kablia"
+      ],
+      "stated_as": "Dahou Ould Kablia"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Housing and Urban Development"
+    },
+    "P580": "2001-05-31",
+    "P1365": {
+      "links": [
+        "Abdellah Bounekraf"
+      ],
+      "stated_as": "Abdellah Bounekraf"
+    },
+    "P582": "2002-06-04",
+    "P1366": {
+      "links": [
+        "Mohamed Nadir Hamimid"
+      ],
+      "stated_as": "Mohamed Nadir Hamimid"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Housing and Urban Development and the City"
+    },
+    "P580": "2012-09-03",
+    "P1365": {
+      "links": [
+        "Noureddine Moussa"
+      ],
+      "stated_as": "Noureddine Moussa"
+    },
+    "P582": "2017-05-25",
+    "P1366": {
+      "links": [
+        "Youcef Cherfa"
+      ],
+      "stated_as": "Youcef Cherfa"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Commerce (Interim)"
+    },
+    "P580": "2017-01-19",
+    "P1365": {
+      "links": [
+        "Bakhti Belaïb"
+      ],
+      "stated_as": "Bakhti Belaïb"
+    },
+    "P582": "2017-08-15",
+    "P1366": {
+      "links": [
+        "Ahmed Saci"
+      ],
+      "stated_as": "Ahmed Saci"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Prime Minister of Algeria"
+    },
+    "P1545": "16",
+    "P580": "2017-05-25",
+    "P1365": {
+      "links": [
+        "Abdelmalek Sellal"
+      ],
+      "stated_as": "Abdelmalek Sellal"
+    },
+    "P582": "2017-08-15",
+    "P1366": {
+      "links": [
+        "Ahmed Ouyahia"
+      ],
+      "stated_as": "Ahmed Ouyahia"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "President of Algeria"
+      ],
+      "stated_as": "8th President of Algeria"
+    },
+    "P580": "2019-12-19",
+    "P1365": {
+      "links": [
+        "Abdelkader Bensalah"
+      ],
+      "stated_as": "Abdelkader Bensalah (Acting)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Defence"
+    },
+    "P580": "2019-12-19",
+    "P1365": {
+      "links": [
+        "Ahmed Gaid Salah",
+        "Abdelaziz Bouteflika",
+        "de jure"
+      ],
+      "stated_as": "Ahmed Gaid Salah (Acting) Abdelaziz Bouteflika (de jure)"
+    }
+  }
+]

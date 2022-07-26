@@ -1,0 +1,61 @@
+[
+  {
+    "office": {
+      "links": [
+        "Minister of Foreign Affairs (Algeria)"
+      ],
+      "stated_as": "Minister of Foreign Affairs"
+    },
+    "P580": "2013-09-11",
+    "P1365": {
+      "links": [
+        "Mourad Medelci"
+      ],
+      "stated_as": "Mourad Medelci"
+    },
+    "P582": "2017-05-25",
+    "P1366": {
+      "links": [
+        "Abdelkader Messahel"
+      ],
+      "stated_as": "Abdelkader Messahel"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Foreign Affairs (Algeria)"
+      ],
+      "stated_as": "Minister of Foreign Affairs"
+    },
+    "P580": "2019-03-13",
+    "P1365": {
+      "links": [
+        "Abdelkader Messahel"
+      ],
+      "stated_as": "Abdelkader Messahel"
+    },
+    "P582": "2019-03-31",
+    "P1366": {
+      "links": [
+        "Sabri Boukadoum"
+      ],
+      "stated_as": "Sabri Boukadoum"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Foreign Affairs (Algeria)"
+      ],
+      "stated_as": "Minister of Foreign Affairs"
+    },
+    "P580": "2021-07-07",
+    "P1365": {
+      "links": [
+        "Sabri Boukadoum"
+      ],
+      "stated_as": "Sabri Boukadoum"
+    }
+  }
+]

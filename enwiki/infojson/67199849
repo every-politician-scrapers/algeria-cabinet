@@ -1,0 +1,56 @@
+[
+  {
+    "office": {
+      "links": [
+        "Director general",
+        "Sonelgaz"
+      ],
+      "stated_as": "Director general of Sonelgaz"
+    },
+    "P580": "2017-08-30",
+    "P1365": {
+      "links": [
+        "Mustapha Guitouni"
+      ],
+      "stated_as": "Mustapha Guitouni"
+    },
+    "P582": "2019-04-01",
+    "P1366": {
+      "links": [
+        "Chahar Boulakhras"
+      ],
+      "stated_as": "Chahar Boulakhras"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Energy and Mining (Algeria)"
+      ],
+      "stated_as": "Minister of Mining"
+    },
+    "P580": "2019-04-01",
+    "P1365": {
+      "links": [
+        "Mustapha Guitouni"
+      ],
+      "stated_as": "Mustapha Guitouni"
+    },
+    "P582": "2021-02-22"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Energy and Mining (Algeria)"
+      ],
+      "stated_as": "Minister of Energy"
+    },
+    "P580": "2021-02-22",
+    "P1365": {
+      "links": [
+        "Abdelmadjid Attar"
+      ],
+      "stated_as": "Abdelmadjid Attar"
+    }
+  }
+]

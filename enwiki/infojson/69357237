@@ -1,0 +1,26 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Algerian Deputy"
+    },
+    "P580": "2021-07-08"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "President of the National People's Congress"
+    },
+    "P580": "2021-07-08",
+    "P1365": {
+      "links": [
+        "Slimane Chenine"
+      ],
+      "stated_as": "Slimane Chenine"
+    }
+  }
+]
